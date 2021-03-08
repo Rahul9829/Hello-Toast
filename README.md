@@ -1,2 +1,6 @@
+![screenshot](ss.png)
+![screenshot](ss1.png)
+![screenshot](ss3.png)
+![screenshot](ss4.png)
 ![screenshot](ss6.png)
 ![GIF](task6.gif)
